@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="14.488">
+    <testcase classname="HomePage_Functionality_With_Right_Credentials" name="User should see main tabs,clicks Our Technologies and verify IOS Developer position' position is right" time="14.206">
+        <system-out>
+            <![CDATA[Given user navigates to web page............................................passed
+And verify the web page is opened...........................................passed
+And user should see 4 main tab section on the homepage......................passed
+And user clicks "Our Technologies" tab......................................passed
+Then verify the relevant section is opened..................................passed
+When user scroll down.......................................................passed
+Then verify Open Roles section is present...................................passed
+Then User verify that "iOS Developer" position is under the Software Development section..passed
+And User clicks to "iOS Developer" position.................................passed
+Then verify the new tab is opened...........................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
